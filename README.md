@@ -10,5 +10,5 @@ In progress:
 - BBC foods
 
 # features to be added
-
+Some analysis of the 'completeness' of the protein source
 
