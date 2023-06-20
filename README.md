@@ -4,3 +4,7 @@ Cool project to allow me to compare the protein content of various recipes found
 
 For now, scrapes:
 - BBC good food
+
+In progress:
+- Epicurious
+- BBC foods
