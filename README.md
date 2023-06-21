@@ -9,7 +9,9 @@ In progress:
 - Epicurious
 - BBC foods
 
-Features to be added:
-Some analysis of the 'completeness' of the protein source.
+# Features to be added:
+ - Some analysis of the 'completeness' of the protein source.
+ - Use some nutrition database to associate foods with their nutritional content - which will mean sites with unlisted nutritional data can still be scraped.
+ - Natural language processing so phrases like 'a handful of parsley' can be associated with a weight.
 
 
